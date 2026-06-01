@@ -1,0 +1,3 @@
+ "d:\StreamReaderandWriter_0185\" ; if ($?) { g++ streamReaderandWriter.cpp -o streamReaderandWriter } ; if ($?) { .\streamReaderandWriter }
+cd "d:\StreamReaderandWriter_0185\" ; if ($?) { g++ manualException.cpp -o manualException } ; if ($?) { .\manualException }
+cd "d:\StreamReaderandWriter_0185\" ; if ($?) { g++ ExceptionStandart.cpp -o ExceptionStandart } ; if ($?) { .\ExceptionStandart }
